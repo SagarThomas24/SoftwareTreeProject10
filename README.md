@@ -4,9 +4,13 @@ This project consists of a Kafka consumer script, data files, and a Docker Compo
 
 # Files Included
 consumer.py: A Python script to consume messages from Kafka topics and save them into JSON files.
+
 data.json: A combined data file containing user and transaction data.
+
 data_T1.json: A JSON file containing user data.
+
 data_T2.json: A JSON file containing transaction data.
+
 docker-compose.yml: A Docker Compose configuration file to set up the required services.
 
 
